@@ -9,6 +9,7 @@ import {
 export const Cards = () => {
   return (
     <>
+      <h1>hola</h1>
       <Card sx={{ maxWidth: 400, margin: "2rem auto" }}>
         <CardMedia
           component="img"
